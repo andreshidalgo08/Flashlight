@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrador\\AndroidStudioProjects\\FlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight_on.xml",
+        "source": "C:\\Users\\Administrador\\AndroidStudioProjects\\FlashLight\\app\\src\\main\\res\\drawable\\flashlight_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\AndroidStudioProjects\\FlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight_off.xml",
+        "source": "C:\\Users\\Administrador\\AndroidStudioProjects\\FlashLight\\app\\src\\main\\res\\drawable\\flashlight_off.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\.android\build-cache\20be652ae634a6fd76d89173f60f7267ddc301de\output\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_346d7cb69fa7ddc802d57abc71e3578e0361895d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_3bfef42b2b8dd70fefb970554e8144996ff8892b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrador\.android\build-cache\20be652ae634a6fd76d89173f60f7267ddc301de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\Administrador\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\classes_e22951df375c007de7830cdd9099e618d2029dcb.jar" />
+    </item>
+
+</items>
